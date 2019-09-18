@@ -1,0 +1,10 @@
+c:\users\simeon_dee\documents\visual studio 2013\Projects\TelephoneNumberExtractor\TelephoneNumberExtractor\bin\Debug\TelephoneNumberExtractor.exe.config
+c:\users\simeon_dee\documents\visual studio 2013\Projects\TelephoneNumberExtractor\TelephoneNumberExtractor\bin\Debug\TelephoneNumberExtractor.exe
+c:\users\simeon_dee\documents\visual studio 2013\Projects\TelephoneNumberExtractor\TelephoneNumberExtractor\bin\Debug\TelephoneNumberExtractor.pdb
+c:\users\simeon_dee\documents\visual studio 2013\Projects\TelephoneNumberExtractor\TelephoneNumberExtractor\bin\Debug\TelephoneNumberExtractor.xml
+c:\users\simeon_dee\documents\visual studio 2013\Projects\TelephoneNumberExtractor\TelephoneNumberExtractor\obj\Debug\TelephoneNumberExtractor.Form1.resources
+c:\users\simeon_dee\documents\visual studio 2013\Projects\TelephoneNumberExtractor\TelephoneNumberExtractor\obj\Debug\TelephoneNumberExtractor.Resources.resources
+c:\users\simeon_dee\documents\visual studio 2013\Projects\TelephoneNumberExtractor\TelephoneNumberExtractor\obj\Debug\TelephoneNumberExtractor.vbproj.GenerateResource.Cache
+c:\users\simeon_dee\documents\visual studio 2013\Projects\TelephoneNumberExtractor\TelephoneNumberExtractor\obj\Debug\TelephoneNumberExtractor.exe
+c:\users\simeon_dee\documents\visual studio 2013\Projects\TelephoneNumberExtractor\TelephoneNumberExtractor\obj\Debug\TelephoneNumberExtractor.xml
+c:\users\simeon_dee\documents\visual studio 2013\Projects\TelephoneNumberExtractor\TelephoneNumberExtractor\obj\Debug\TelephoneNumberExtractor.pdb
